@@ -1,0 +1,13 @@
+C:\Users\Ediram\Desktop\SENAI\POO\bin\Debug\netcoreapp3.1\POO.exe
+C:\Users\Ediram\Desktop\SENAI\POO\bin\Debug\netcoreapp3.1\POO.deps.json
+C:\Users\Ediram\Desktop\SENAI\POO\bin\Debug\netcoreapp3.1\POO.runtimeconfig.json
+C:\Users\Ediram\Desktop\SENAI\POO\bin\Debug\netcoreapp3.1\POO.runtimeconfig.dev.json
+C:\Users\Ediram\Desktop\SENAI\POO\bin\Debug\netcoreapp3.1\POO.dll
+C:\Users\Ediram\Desktop\SENAI\POO\bin\Debug\netcoreapp3.1\POO.pdb
+C:\Users\Ediram\Desktop\SENAI\POO\obj\Debug\netcoreapp3.1\POO.csprojAssemblyReference.cache
+C:\Users\Ediram\Desktop\SENAI\POO\obj\Debug\netcoreapp3.1\POO.csproj.CoreCompileInputs.cache
+C:\Users\Ediram\Desktop\SENAI\POO\obj\Debug\netcoreapp3.1\POO.AssemblyInfoInputs.cache
+C:\Users\Ediram\Desktop\SENAI\POO\obj\Debug\netcoreapp3.1\POO.AssemblyInfo.cs
+C:\Users\Ediram\Desktop\SENAI\POO\obj\Debug\netcoreapp3.1\POO.dll
+C:\Users\Ediram\Desktop\SENAI\POO\obj\Debug\netcoreapp3.1\POO.pdb
+C:\Users\Ediram\Desktop\SENAI\POO\obj\Debug\netcoreapp3.1\POO.genruntimeconfig.cache
